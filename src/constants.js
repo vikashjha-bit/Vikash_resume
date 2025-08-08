@@ -96,20 +96,6 @@ export const SkillsInfo = [
     ],
   },
   
-{
-    title: 'Machine learning',
-    skills: [
-      { name: 'ScikitLearn', logo: Sckietlearn },
-      { name: 'mongoose', logo: mongoose },
-      { name: 'xgboost', logo: xgboost },
-      { name: 'pytorch', logo: pytorch },
-      { name: 'pandas', logo: pandas },
-      { name: 'express', logo: express },
-      { name: 'anaconda', logo: anaconda },
-      { name: 'kaggle', logo: kaggle },
-
-    ],
-  },
   {
     title: 'Languages',
     skills: [
@@ -209,11 +195,11 @@ export const SkillsInfo = [
     {
       id: 1,
       img: bsaLogo,
-      school: "BSA College, Mathura",
-      date: "Sept 2018 - Aug 2021",
-      grade: "73.2%",
-      desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
-      degree: "Bachelor of Science - BSC (Computer Science)",
+      school: "+2 R.C.H.School, Khararai",
+      date: "April 2019 - Mar 2021",
+      grade: "83.2%",
+      desc: "I completed my class 12 education from +2 R.C.High School,Kharari, under the Bcece board, where I studied Science with Computer.",
+      degree: "BCECE(XII) - Science with Computer Application",
     },
     
     {
